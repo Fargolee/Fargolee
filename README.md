@@ -5,6 +5,7 @@
 ### Curious about AI-assisted testing & coding workflows — forking, breaking, and learning in public.
 
 [![Profile views](https://komarev.com/ghpvc/?username=Fargolee&style=flat&color=2563eb&label=Profile+Views)](https://github.com/Fargolee)
+[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Fargolee)](https://githubroast.icu/u/Fargolee)
 
 </div>
 
