@@ -5,7 +5,7 @@
 ### Curious about AI-assisted testing & coding workflows — forking, breaking, and learning in public.
 
 [![Profile views](https://komarev.com/ghpvc/?username=Fargolee&style=flat&color=2563eb&label=Profile+Views)](https://github.com/Fargolee)
-[![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/Fargolee)](https://githubroast.icu/u/Fargolee)
+[![GitHub Roast badge](https://githubroast.icu/api/badge/Fargolee)](https://githubroast.icu/u/Fargolee)
 
 </div>
 
@@ -47,12 +47,12 @@ Real projects I'm reading through, fork by fork — grouped by what each one tea
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github&theme=default">
-  <img alt="Fargolee's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github&theme=default">
+  <img alt="GitHub profile stats for Fargolee" src="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github&theme=default">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true&theme=default">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true&theme=default">
+  <img alt="Top programming languages used across Fargolee repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true&theme=default">
 </picture>
 
 <br>
@@ -60,7 +60,7 @@ Real projects I'm reading through, fork by fork — grouped by what each one tea
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Fargolee&hide_border=true&theme=tokyonight">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Fargolee&hide_border=true&theme=default">
-  <img alt="Fargolee's GitHub streak" src="https://streak-stats.demolab.com?user=Fargolee&hide_border=true&theme=default">
+  <img alt="GitHub contribution streak for Fargolee" src="https://streak-stats.demolab.com?user=Fargolee&hide_border=true&theme=default">
 </picture>
 
 </div>
