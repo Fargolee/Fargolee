@@ -5,39 +5,23 @@
 ### Curious about AI-assisted testing & coding workflows — forking, breaking, and learning in public.
 
 [![Profile views](https://komarev.com/ghpvc/?username=Fargolee&style=flat&color=2563eb&label=Profile+Views)](https://github.com/Fargolee)
-[![GitHub Roast badge](https://githubroast.icu/api/badge/Fargolee)](https://githubroast.icu/u/Fargolee)
+[![GitHub Roast badge](https://githubroast.icu/Fargolee/Fargolee?update=6)](https://githubroast.icu)
 
 </div>
 
 ---
 
-## 🧭 About
+## 👨‍💻 About Me
 
-I treat my GitHub profile as a **living workspace** rather than a polished portfolio. Most of what's here is me studying other people's projects — AI testing platforms, coding-agent skills, and RAG experiments — by forking them, reading the code, and rebuilding the parts I find interesting from scratch, mostly in **Python** (crawlers, exercises, and small reproducible scripts).
-
-## 🔍 Currently Studying
-
-Real projects I'm reading through, fork by fork — grouped by what each one teaches me:
-
-| Theme | Project | What I'm learning from it |
-| --- | --- | --- |
-| 🤖 AI Testing | [AITestPlatform](https://github.com/Fargolee/AITestPlatform) | How an LLM tool-calling loop drives the full requirement → case → execution → report flow |
-| 🤖 AI Testing | [Argus](https://github.com/Fargolee/Argus) | Turning plain-English test descriptions into plans that actually execute |
-| 🛠️ Agent Skills | [codex-ppt-skill](https://github.com/Fargolee/codex-ppt-skill) | How an image-based deck generator works: prompt → gpt-image-2 → packaged slides |
-| 🛠️ Agent Skills | [GenericAgent](https://github.com/Fargolee/GenericAgent) | A self-evolving agent that grows a skill tree from a single seed file |
-| 📚 RAG | [rag-knowledge-system](https://github.com/Fargolee/rag-knowledge-system) | Self-hosted RAG: document parsing, chunking strategies, and hybrid retrieval |
-
-<sub>👆 These are forks I keep around to read — click through if you're curious about the same topics.</sub>
+I build and test AI-driven development workflows — experimenting with tooling at the intersection of testing, LLM agents, and infrastructure. I fork repos aggressively, study what works, and share what breaks. Big believer in: **write READMEs that don't hide assumptions** and **validate with real commits**.
 
 <details>
-<summary>📚 More forks I'm reading through</summary>
+<summary>📋 What I focus on</summary>
 
-| Project | What it does |
-| --- | --- |
-| [WHartTest](https://github.com/Fargolee/WHartTest) | AI-driven test platform: requirement → executable test cases |
-| [CLI-Anything](https://github.com/Fargolee/CLI-Anything) | Making software agent-native through CLIs |
-| [guizang-ppt-skill](https://github.com/Fargolee/guizang-ppt-skill) | HTML slide-deck skill: editorial & Swiss layouts |
-
+- 🧪 **AI-Assisted Testing**: Exploring how LLMs can improve test generation, bug reproduction, and CI/CD workflows.
+- 🔧 **Tooling & Automation**: Building custom scripts, CLI wrappers, and agent pipelines for MCP-compatible LLM clients.
+- 🏗️ **Infrastructure**: Docker, Linux, CI/CD experiments — what works in prod, not just on paper.
+- 📚 **Fork-driven learning**: Studying open-source codebases to understand patterns, not just read documentation.
 </details>
 
 ## 📊 GitHub Snapshot
@@ -46,47 +30,45 @@ Real projects I'm reading through, fork by fork — grouped by what each one tea
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github&theme=default">
-  <img alt="GitHub profile stats for Fargolee" src="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github&theme=default">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github">
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true&theme=default">
-  <img alt="Top programming languages used across Fargolee repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true&theme=default">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true">
 </picture>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Fargolee&hide_border=true&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Fargolee&hide_border=true&theme=default">
-  <img alt="GitHub contribution streak for Fargolee" src="https://streak-stats.demolab.com?user=Fargolee&hide_border=true&theme=default">
-</picture>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Fargolee&theme=github-compact&hide_border=true)
 
 </div>
 
 ## 🧰 Toolbox
 
-<div align="center">
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+### Tools & Runtimes
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-</div>
+### Platforms
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 
-## 🌱 Working Style
+## 🧠 Working Style
 
-- **Read the source.** Fork it, trace it, then decide what's worth keeping.
-- **Keep repos small** — small enough to understand in one sitting.
-- **Write READMEs that don't hide assumptions** — the doc *is* the design.
-- **Validate with real commits and pushes**, not theoretical reasoning.
-- **Build the simplest version first**, polish only what proves useful.
+- **Keep it small** — the best PR is the one you can reason about end-to-end.
+- **Document the why, not just the what** — context decays faster than code.
+- **Study forks like study notes** — annotate, run, break, rebuild.
+- **Tools must be composable** — no monoliths, no magic globals.
+- **Prefer clarity over cleverness** — if it can't be explained in a paragraph, it's too complex.
 
 <div align="center">
 
