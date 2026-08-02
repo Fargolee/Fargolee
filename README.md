@@ -40,7 +40,7 @@ I build and test AI-driven development workflows — experimenting with tooling 
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true">
 </picture>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Fargolee&theme=github-compact&hide_border=true)
+![GitHub activity graph for Fargolee](https://github-readme-activity-graph.vercel.app/graph?username=Fargolee&theme=github-compact&hide_border=true)
 
 </div>
 
