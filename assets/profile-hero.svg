@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Fargolee — learning systems by testing them</title>
+  <desc id="desc">A technical profile banner showing a workflow from fork to inspect, break, and validate.</desc>
+  <rect width="1200" height="420" rx="24" fill="#0b1020"/>
+  <path d="M0 84H1200M0 336H1200" stroke="#24304a"/>
+  <path d="M72 0V420M1128 0V420" stroke="#18223a"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="72" y="58" fill="#7dd3fc" font-size="15" letter-spacing="2">PROFILE / WORKBENCH</text>
+    <text x="1128" y="58" fill="#718096" font-size="14" text-anchor="end">EST. 2018</text>
+
+    <text x="72" y="153" fill="#f8fafc" font-size="58" font-weight="700">Fargolee</text>
+    <text x="75" y="198" fill="#a9b7d0" font-size="21">Learning systems by testing them.</text>
+    <text x="75" y="232" fill="#718096" font-size="16">AI testing · agent tooling · practical infrastructure</text>
+
+    <g transform="translate(72 282)">
+      <rect width="166" height="54" rx="10" fill="#111a2e" stroke="#334568"/>
+      <circle cx="27" cy="27" r="7" fill="#38bdf8"/>
+      <text x="48" y="33" fill="#dbeafe" font-size="15">01 / FORK</text>
+
+      <path d="M180 27H214" stroke="#526580" stroke-width="2"/>
+      <path d="m207 21 8 6-8 6" fill="none" stroke="#526580" stroke-width="2"/>
+
+      <rect x="228" width="166" height="54" rx="10" fill="#111a2e" stroke="#334568"/>
+      <circle cx="255" cy="27" r="7" fill="#a78bfa"/>
+      <text x="276" y="33" fill="#ede9fe" font-size="15">02 / INSPECT</text>
+
+      <path d="M408 27H442" stroke="#526580" stroke-width="2"/>
+      <path d="m435 21 8 6-8 6" fill="none" stroke="#526580" stroke-width="2"/>
+
+      <rect x="456" width="166" height="54" rx="10" fill="#111a2e" stroke="#334568"/>
+      <circle cx="483" cy="27" r="7" fill="#fb7185"/>
+      <text x="504" y="33" fill="#ffe4e6" font-size="15">03 / BREAK</text>
+
+      <path d="M636 27H670" stroke="#526580" stroke-width="2"/>
+      <path d="m663 21 8 6-8 6" fill="none" stroke="#526580" stroke-width="2"/>
+
+      <rect x="684" width="190" height="54" rx="10" fill="#10251f" stroke="#2d6a56"/>
+      <circle cx="711" cy="27" r="7" fill="#34d399"/>
+      <text x="732" y="33" fill="#d1fae5" font-size="15">04 / VALIDATE</text>
+    </g>
+
+    <text x="1128" y="385" fill="#526580" font-size="13" text-anchor="end">SMALL STEPS / REAL COMMITS / VISIBLE ASSUMPTIONS</text>
+  </g>
+</svg>

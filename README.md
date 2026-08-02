@@ -1,77 +1,54 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-hero.svg" width="100%" alt="Fargolee — learning systems by testing them">
+</p>
 
-# Hi, I'm Fargolee 👋
+## What I work on
 
-### Curious about AI-assisted testing & coding workflows — forking, breaking, and learning in public.
+I explore AI testing, agent tooling, and infrastructure by forking repositories, running them in real environments, and documenting what breaks. My method: small PRs, visible assumptions, and commit-level proof instead of summary promises.
 
-[![Profile views](https://komarev.com/ghpvc/?username=Fargolee&style=flat&color=2563eb&label=Profile+Views)](https://github.com/Fargolee)
-[![GitHub Roast badge](https://githubroast.icu/Fargolee/Fargolee?update=6)](https://githubroast.icu)
+Recent focus areas:
 
-</div>
+- **AI-driven test automation** — investigating LLM-based test generation, bug reproduction workflows, and CI/CD integration patterns across platforms like WHartTest, AITestPlatform, and qaitest.
+- **Agent-native software** — studying CLI-Anything, MCP server implementations, and composable tooling that makes existing software controllable by agents without bespoke integrations.
+- **Infrastructure reality checks** — validating Docker-based deployments, proxy configurations, and cross-platform compatibility issues on Linux and macOS environments.
+
+## How I work
+
+- **Keep it small** — PRs should be reviewable without context loss. One clear change beats ten unrelated edits.
+- **Document the why, not just the what** — assumptions decay faster than code. If a decision isn't obvious six months later, it wasn't captured properly.
+- **Study forks like study notes** — I annotate, run, break, and rebuild. Passive reading doesn't surface the hidden dependencies.
+- **Tools must be composable** — no monoliths, no magic globals. If it can't pipe input or expose a stable interface, it's technical debt.
+- **Prefer clarity over cleverness** — if it can't be explained in a paragraph, it's too complex for production.
+
+## Repository activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0b1020&title_color=7dd3fc&text_color=a9b7d0&icon_color=38bdf8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github&bg_color=f8fafc&title_color=0f172a&text_color=475569&icon_color=0ea5e9">
+  <img alt="GitHub stats for Fargolee" src="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true&theme=tokyonight&bg_color=0b1020&title_color=7dd3fc&text_color=a9b7d0">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true&bg_color=f8fafc&title_color=0f172a&text_color=475569">
+  <img alt="Top languages used by Fargolee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true">
+</picture>
+
+![GitHub activity graph for Fargolee](https://github-readme-activity-graph.vercel.app/graph?username=Fargolee&theme=github-compact&hide_border=true&bg_color=0b1020&color=a9b7d0&line=38bdf8&point=7dd3fc&area=true&area_color=1e3a8a)
+
+## Tech stack
+
+**Languages:** Python · JavaScript · TypeScript · Shell
+
+**Platforms:** Linux · macOS · Docker · Node.js · Git
+
+**Testing focus:** Playwright · MCP servers · LLM-driven test generation · CI/CD pipelines
+
+## Contact
+
+- GitHub: [@Fargolee](https://github.com/Fargolee)
+- Active repos: 104 · Followers: 5 · Following: 58
 
 ---
 
-## 👨‍💻 About Me
-
-I build and test AI-driven development workflows — experimenting with tooling at the intersection of testing, LLM agents, and infrastructure. I fork repos aggressively, study what works, and share what breaks. Big believer in: **write READMEs that don't hide assumptions** and **validate with real commits**.
-
-<details>
-<summary>📋 What I focus on</summary>
-
-- 🧪 **AI-Assisted Testing**: Exploring how LLMs can improve test generation, bug reproduction, and CI/CD workflows.
-- 🔧 **Tooling & Automation**: Building custom scripts, CLI wrappers, and agent pipelines for MCP-compatible LLM clients.
-- 🏗️ **Infrastructure**: Docker, Linux, CI/CD experiments — what works in prod, not just on paper.
-- 📚 **Fork-driven learning**: Studying open-source codebases to understand patterns, not just read documentation.
-</details>
-
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fargolee&show_icons=true&hide_border=true&rank_icon=github">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true">
-</picture>
-
-![GitHub activity graph for Fargolee](https://github-readme-activity-graph.vercel.app/graph?username=Fargolee&theme=github-compact&hide_border=true)
-
-</div>
-
-## 🧰 Toolbox
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-### Tools & Runtimes
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-### Platforms
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
-
-## 🧠 Working Style
-
-- **Keep it small** — the best PR is the one you can reason about end-to-end.
-- **Document the why, not just the what** — context decays faster than code.
-- **Study forks like study notes** — annotate, run, break, rebuild.
-- **Tools must be composable** — no monoliths, no magic globals.
-- **Prefer clarity over cleverness** — if it can't be explained in a paragraph, it's too complex.
-
-<div align="center">
-
-<sub>⭐️ Feel free to look around — this profile is a workspace, not a showcase.</sub>
-
-</div>
+<sub>This profile is a workspace, not a showcase. If a fork looks abandoned, it's probably annotated locally.</sub>
