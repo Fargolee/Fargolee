@@ -4,9 +4,11 @@ on:
   push:
     paths:
       - "README.md"
+      - ".markdownlint.json"
   pull_request:
     paths:
       - "README.md"
+      - ".markdownlint.json"
 
 jobs:
   markdownlint:
@@ -18,9 +20,3 @@ jobs:
         uses: DavidAnson/markdownlint-cli2-action@v16
         with:
           globs: "README.md"
-          config: |
-            {
-              "MD013": false,
-              "MD033": false,
-              "MD041": false
-            }
