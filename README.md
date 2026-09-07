@@ -12,6 +12,17 @@ Recent focus areas:
 - **Agent-native software** — studying CLI-Anything, MCP server implementations, and composable tooling that makes existing software controllable by agents without bespoke integrations.
 - **Infrastructure reality checks** — validating Docker-based deployments, proxy configurations, and cross-platform compatibility issues on Linux and macOS environments.
 
+## Selected work
+
+> Here's the thing about being a fork collector: the interesting stuff hides in the annotations. These are the ones worth opening.
+
+| 名称 | 说明 |
+| --- | --- |
+| **[sketchbook](https://github.com/Fargolee/sketchbook)** | 拾光册 — a private, page-flipping photo album built as a static site. One of the few things here that isn't a fork. |
+| **[qa-toolkit-docker](https://github.com/Fargolee/qa-toolkit-docker)** | Common test-engineer tooling (Streamlit + Docker) packaged for offline deployment. |
+| **[Horizon](https://github.com/Fargolee/Horizon)** | AI news radar generating daily English/Chinese briefings — actively maintained. |
+| **[WHartTest](https://github.com/Fargolee/WHartTest)** · **[AITestPlatform](https://github.com/Fargolee/AITestPlatform)** · **[qaitest](https://github.com/Fargolee/qaitest)** · **[CLI-Anything](https://github.com/Fargolee/CLI-Anything)** | The AI-testing ecosystem — forked, run, and annotated. |
+
 ## How I work
 
 - **Keep it small** — PRs should be reviewable without context loss. One clear change beats ten unrelated edits.
@@ -34,7 +45,11 @@ Recent focus areas:
   <img alt="Top languages used by Fargolee" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fargolee&layout=compact&hide_border=true">
 </picture>
 
-![GitHub activity graph for Fargolee](https://github-readme-activity-graph.vercel.app/graph?username=Fargolee&theme=github-compact&hide_border=true&bg_color=0b1020&color=a9b7d0&line=38bdf8&point=7dd3fc&area=true&area_color=1e3a8a)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fargolee&theme=github-compact&hide_border=true&bg_color=0b1020&color=a9b7d0&line=38bdf8&point=7dd3fc&area=true&area_color=1e3a8a">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fargolee&theme=github-compact&hide_border=true&bg_color=f8fafc&color=475569&line=0ea5e9&point=0369a1&area=true&area_color=bae6fd">
+  <img alt="GitHub activity graph for Fargolee" src="https://github-readme-activity-graph.vercel.app/graph?username=Fargolee&theme=github-compact&hide_border=true&bg_color=0b1020&color=a9b7d0&line=38bdf8&point=7dd3fc&area=true&area_color=1e3a8a">
+</picture>
 
 ## Tech stack
 
@@ -46,8 +61,7 @@ Recent focus areas:
 
 ## Contact
 
-- GitHub: [@Fargolee](https://github.com/Fargolee)
-- Active repos: 104 · Followers: 5 · Following: 58
+- GitHub: [@Fargolee](https://github.com/Fargolee) · Building in public since 2018
 
 ---
 
